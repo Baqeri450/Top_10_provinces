@@ -352,7 +352,7 @@ class _MDState extends State<MD> {
                 padding: EdgeInsets.all(16.0),
                 child: Text(
                   'Herat is a city located in western Afghanistan, in the fertile valley of the Hari River, south of the Paropamisus Mountains. It is the capital of Herat Province and is the third-largest city in Afghanistan1. Herat is known for its rich history and cultural significance, often referred to as the "Pearl of Khorasan".Key Highlights:Historical Significance: Herat has been an important city on the Silk Road, connecting West Asia, Central Asia, and South Asia. It has a long history dating back to Avestan times and was known for its wine production1.Cultural Hub: The city is home to several historic sites, including the Herat Citadel, the Musalla Complex, and the Great Mosque of Herat.Timurid Renaissance: Under the rule of Shah Rukh, Herat became a center of intellectual and artistic life, often compared to Florence during the Italian Renaissance.Modern Era: Herat has faced various conflicts, including damage during the Soviet-Afghan War and recent conflicts with the Taliban. Despite this, it remains a vital economic and cultural center in western Afghanistan',
-                  style: TextStyle(fontSize: 16),
+                  style: TextStyle(fontSize: 18),
                 ),
               ),
               Center(

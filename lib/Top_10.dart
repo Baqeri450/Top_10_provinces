@@ -404,7 +404,7 @@ class _MD1State extends State<MD1> {
                 padding: EdgeInsets.all(16.0),
                 child: Text(
                   'Kabul is the capital city of Afghanistan and the largest urban center in the country. It is located in the eastern part of Afghanistan, nestled in a high-altitude valley in the Hindu Kush mountain range1. Here are some key highlights about Kabul:Key Highlights:Historical Significance: Kabul has a rich history dating back over 3,500 years. It has been a key city on the ancient Silk Road, connecting trade routes between Central Asia, South Asia, and the Middle East1.Cultural Hub: The city is known for its diverse cultural heritage, with numerous historic sites, including the Kabul Citadel, the Shah-Do Shamshira Mosque, and the Sakhi Shrine.Political and Economic Center: Kabul serves as the political, cultural, and economic hub of Afghanistan. It is home to the Afghan government and many international embassies and organizations2.Strategic Location: Kabul is situated at a crossroads of major trade routes, making it a strategically important city.Population: As of 2023, the population of Kabul is estimated to be around 4.95 million people.Climate: Kabul has a semi-arid climate with hot summers and cold winters. The city experiences significant temperature changes from day to night and season to season3.',
-                  style: TextStyle(fontSize: 16),
+                  style: TextStyle(fontSize: 18),
                 ),
               ),
               Center(

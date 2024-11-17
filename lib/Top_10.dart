@@ -56,7 +56,7 @@ class _SplashScreenState extends State<SplashScreen> {
             child: Center(
                 child: Image.asset(
               'images/lion.jpg',
-              width: 300,
+              width: 310,
               height: 350,
             )),
           ), // Change to your image path
